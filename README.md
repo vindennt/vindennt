@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+I've got some great things in store.
+Check out a credit card travel-hacking project I'm working on with [Jawny](https://github.com/Jawny): [Cardtrackr](https://www.cardtrackr.ca)
 
 <!--
 **vindennt/vindennt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
